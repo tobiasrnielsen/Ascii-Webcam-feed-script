@@ -2,6 +2,7 @@
 ASCII kode projekt - Webcam feed omdannet til Ascii kode
 
 Screen shots
-![ascii1](https://user-images.githubusercontent.com/17072539/223089391-d39e5acd-e6e4-4d62-9348-165a9eed3b22.png)
-![ascii2](https://user-images.githubusercontent.com/17072539/223089401-9c4cce67-b54e-43c1-b4bc-9e5c81f5145e.png)
-![ascii3](https://user-images.githubusercontent.com/17072539/223089412-b09d4de4-00c8-46b5-a749-a08a1d49498b.png)
+
+![ascii 3](https://user-images.githubusercontent.com/17072539/224671575-15c11d77-a234-4f58-9b0c-3acc252e88a2.png)
+![ascii 1](https://user-images.githubusercontent.com/17072539/224671580-d8a890f7-ee41-41a4-b03e-6d5ec1b883d1.png)
+![ascii 2](https://user-images.githubusercontent.com/17072539/224671582-fd92c8de-bd34-4e78-85bb-a2ad6820ff0c.png)
