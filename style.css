@@ -1,13 +1,14 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-color: #d0e4fe;
+  background-color: #404041;
   font-family: 'Courier';
-  color: #000;
-  font-size: 12pt;
-  line-height: 10pt;
+  color: hsl(0, 6%, 74%);
+  font-size: 9pt;
+  line-height: 6pt;
 }
 
 canvas {
   display: block;
+  background-color: #626264;
 }
